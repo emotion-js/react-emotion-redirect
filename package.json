@@ -1,0 +1,8 @@
+{
+  "name": "react-emotion",
+  "version": "10.0.0",
+  "description": "This package is not relevant in Emotion 10, please use @emotion/styled",
+  "main": "index.js",
+  "repository": "https://github.com/emotion-js/react-emotion-redirect",
+  "license": "MIT"
+}
